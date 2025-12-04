@@ -1,4 +1,4 @@
-#Alroithms
+#Floyd
 
-**Algorithms에 대하여**
-본 리포지토리는 Deuwel의 Algorithm 연습 및 최적화 연습을 위한 저장소입니다.
+**Floyd에 대하여**
+청주대학교의 각 건물 간 최단 경로를 Floyd 알고리즘으로 구하는 프로그램입니다.
